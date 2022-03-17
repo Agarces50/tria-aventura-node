@@ -1,2 +1,2 @@
 # tria-aventura-node
-És una història curta però plena d'emoció literària.
+En este maravilloso archivo podrás ,encontrar una fascinante aventura, e intrepidante fabula , para mayores y niños. Espero que sea de vuestro agrado.
